@@ -6,5 +6,5 @@
         xmlns:local="clr-namespace:DaXueXi"
         mc:Ignorable="d"
         Title="大学习" Height="400" Width="650" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Icon="/icon.ico" Loaded="Window_Loaded">
-    <TextBox x:Name="textBox" Margin="4" Padding="2" TextWrapping="Wrap" AcceptsReturn="True" FontSize="15" VerticalScrollBarVisibility="Visible"/>
+    <TextBox x:Name="textBox" Margin="4" Padding="2" TextWrapping="Wrap" AcceptsReturn="True" FontSize="15" VerticalScrollBarVisibility="Visible" IsReadOnly="True"/>
 </Window>
